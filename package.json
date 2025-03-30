@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^11.5.0"
+    "@angular/fire": "^19.0.0",
+    "firebase": "^11.5.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-router-dom": "^7.4.1"
   }
 }

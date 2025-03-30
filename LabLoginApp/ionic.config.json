@@ -1,0 +1,7 @@
+{
+  "name": "LabLoginApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
